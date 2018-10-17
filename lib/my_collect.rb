@@ -1,4 +1,4 @@
-collection = ["Lauren Feusahrens", "Devon Feusahrens", "Carl Feusahrens", "Lisa Feusahrens"]
-my_collect(collection)
+
+my_collect(array)
 
 end
